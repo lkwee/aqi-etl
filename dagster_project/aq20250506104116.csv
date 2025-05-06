@@ -1,0 +1,6 @@
+City,AQI,Dominant Pollutant,PM2.5,Timestamp
+jakarta,127,pm25,127,2025-05-06T09:00:00+07:00
+new york,38,pm25,38,2025-05-05T20:00:00-04:00
+london,25,pm25,25,2025-05-06T01:00:00+01:00
+beijing,50,pm25,50,2025-05-06T10:00:00+08:00
+singapore,21,pm25,21,2025-05-06T10:00:00+08:00
